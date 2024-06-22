@@ -1,0 +1,14 @@
+node_modules/
+.env
+package-lock.json
+token.json
+csv
+.history
+/_test.js
+/.idea/
+
+test.js
+/resourceRegistry.log
+/nodejs_restclient.log
+/nodejs_dc.log
+/*.heapsnapshot
